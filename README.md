@@ -5,7 +5,7 @@
     Curated resource lists, project collections, and landscape overviews
   </p>
   <p align="center">
-    <img src="https://img.shields.io/badge/repos-19-blue?style=for-the-badge" alt="Total repos"/>
+    <img src="https://img.shields.io/badge/repos-22-blue?style=for-the-badge" alt="Total repos"/>
     <img src="https://img.shields.io/badge/categories-7-purple?style=for-the-badge" alt="Categories"/>
     <img src="https://img.shields.io/github/last-commit/danielrosehill/AI-Resource-Maps?style=for-the-badge&color=green" alt="Last updated"/>
   </p>
@@ -15,71 +15,60 @@
 
 ## AI Agents & Society
 
-![Repos](https://img.shields.io/badge/repos-3-blue?style=flat-square)
-
-| Repository | Description |
-|---|---|
-| [AI-Geopol-Projects](https://github.com/danielrosehill/AI-Geopol-Projects) | AI projects exploring the ability of AI agents to act as proxies for real-world geopolitical actors, including simulated policy fora |
-| [AI-Synthesised-Perspectives](https://github.com/danielrosehill/AI-Synthesised-Perspectives) | AI projects focused on synthesising perspectives for multi-perspective exploration |
-| [AI-Synthetic-Society-Experiments](https://github.com/danielrosehill/AI-Synthetic-Society-Experiments) | AI projects exploring synthetic AI societies, multi-agent socialisation, and using these experiments as proxies for understanding real-world behavior |
+| Repository | Description | Updated |
+|---|---|---|
+| [AI Geopol Projects](https://github.com/danielrosehill/AI-Geopol-Projects) | AI projects exploring the ability of AI agents to act as proxies for real-world geopolitical actors, including simulated policy fora | ![](https://img.shields.io/github/last-commit/danielrosehill/AI-Geopol-Projects?style=flat-square&label=) |
+| [AI Synthesised Perspectives](https://github.com/danielrosehill/AI-Synthesised-Perspectives) | AI projects focused on synthesising perspectives for multi-perspective exploration | ![](https://img.shields.io/github/last-commit/danielrosehill/AI-Synthesised-Perspectives?style=flat-square&label=) |
+| [AI Synthetic Society Experiments](https://github.com/danielrosehill/AI-Synthetic-Society-Experiments) | AI projects exploring synthetic AI societies, multi-agent socialisation, and using these experiments as proxies for understanding real-world behavior | ![](https://img.shields.io/github/last-commit/danielrosehill/AI-Synthetic-Society-Experiments?style=flat-square&label=) |
 
 ## AI Decision-Making & Evaluation
 
-![Repos](https://img.shields.io/badge/repos-3-blue?style=flat-square)
-
-| Repository | Description |
-|---|---|
-| [AI-Decision-Eval-Projects](https://github.com/danielrosehill/AI-Decision-Eval-Projects) | AI projects focused on exploring AI as a tool for enhanced decision-making in personal and business contexts |
-| [Deep-Research-Projects-0425](https://github.com/danielrosehill/Deep-Research-Projects-0425) | Collection of links to AI "deep research" projects and agents |
-| [Eval-Resources](https://github.com/danielrosehill/Eval-Resources) | Curated list of LLM evaluation frameworks, benchmarks, and tools |
+| Repository | Description | Updated |
+|---|---|---|
+| [AI Decision Eval Projects](https://github.com/danielrosehill/AI-Decision-Eval-Projects) | AI projects focused on exploring AI as a tool for enhanced decision-making in personal and business contexts | ![](https://img.shields.io/github/last-commit/danielrosehill/AI-Decision-Eval-Projects?style=flat-square&label=) |
+| [Deep Research Projects 0425](https://github.com/danielrosehill/Deep-Research-Projects-0425) | Collection of links to AI "deep research" projects and agents | ![](https://img.shields.io/github/last-commit/danielrosehill/Deep-Research-Projects-0425?style=flat-square&label=) |
+| [Eval Resources](https://github.com/danielrosehill/Eval-Resources) | Curated list of LLM evaluation frameworks, benchmarks, and tools | ![](https://img.shields.io/github/last-commit/danielrosehill/Eval-Resources?style=flat-square&label=) |
 
 ## Personal AI & Context Engineering
 
-![Repos](https://img.shields.io/badge/repos-1-blue?style=flat-square)
-
-| Repository | Description |
-|---|---|
-| [Personal-AI-Resources](https://github.com/danielrosehill/Personal-AI-Resources) | Projects advancing personalised AI — memory, context engineering, personal assistants, second brain tools, and more |
+| Repository | Description | Updated |
+|---|---|---|
+| [Personal AI Resources](https://github.com/danielrosehill/Personal-AI-Resources) | Projects advancing personalised AI — memory, context engineering, personal assistants, second brain tools, and more | ![](https://img.shields.io/github/last-commit/danielrosehill/Personal-AI-Resources?style=flat-square&label=) |
 
 ## Voice & Speech Technology
 
-![Repos](https://img.shields.io/badge/repos-4-blue?style=flat-square)
-
-| Repository | Description |
-|---|---|
-| [Awesome-Whisper-Apps](https://github.com/danielrosehill/Awesome-Whisper-Apps) | Speech-to-text tools that use Whisper under the hood (API and local) |
-| [Linux-Voice-Tech](https://github.com/danielrosehill/Linux-Voice-Tech) | Voice technology resources with Linux support — STT, ASR, and dev frameworks |
-| [Voice-Control-Linux](https://github.com/danielrosehill/Voice-Control-Linux) | Research into voice control platforms with Linux support |
-| [Whisiper-Fine-Tuning-Resources](https://github.com/danielrosehill/Whisiper-Fine-Tuning-Resources) | Resources for fine-tuning Whisper ASR |
+| Repository | Description | Updated |
+|---|---|---|
+| [Awesome Whisper Apps](https://github.com/danielrosehill/Awesome-Whisper-Apps) | Speech-to-text tools that use Whisper under the hood (API and local) | ![](https://img.shields.io/github/last-commit/danielrosehill/Awesome-Whisper-Apps?style=flat-square&label=) |
+| [Linux Voice Tech](https://github.com/danielrosehill/Linux-Voice-Tech) | Voice technology resources with Linux support — STT, ASR, and dev frameworks | ![](https://img.shields.io/github/last-commit/danielrosehill/Linux-Voice-Tech?style=flat-square&label=) |
+| [Voice Control Linux](https://github.com/danielrosehill/Voice-Control-Linux) | Research into voice control platforms with Linux support | ![](https://img.shields.io/github/last-commit/danielrosehill/Voice-Control-Linux?style=flat-square&label=) |
+| [Whisper Fine Tuning Resources](https://github.com/danielrosehill/Whisiper-Fine-Tuning-Resources) | Resources for fine-tuning Whisper ASR | ![](https://img.shields.io/github/last-commit/danielrosehill/Whisiper-Fine-Tuning-Resources?style=flat-square&label=) |
 
 ## AI Tools & Platforms
 
-![Repos](https://img.shields.io/badge/repos-3-blue?style=flat-square)
+| Repository | Description | Updated |
+|---|---|---|
+| [AI Browser Tools](https://github.com/danielrosehill/AI-Browser-Tools) | Index of AI browser tools — automation frameworks, AI-native browsers, MCP servers, extensions, and commercial products | ![](https://img.shields.io/github/last-commit/danielrosehill/AI-Browser-Tools?style=flat-square&label=) |
+| [Awesome AI Coding Tools](https://github.com/danielrosehill/Awesome-AI-Coding-Tools) | Snapshot of AI-powered coding tools and assistants | ![](https://img.shields.io/github/last-commit/danielrosehill/Awesome-AI-Coding-Tools?style=flat-square&label=) |
+| [Awesome Obsidian AI Tools](https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools) | Obsidian plugins focused on leveraging AI and LLMs inside of (and beyond) vaults | ![](https://img.shields.io/github/last-commit/danielrosehill/Awesome-Obsidian-AI-Tools?style=flat-square&label=) |
 
-| Repository | Description |
-|---|---|
-| [AI-Browser-Tools](https://github.com/danielrosehill/AI-Browser-Tools) | Index of AI browser tools — automation frameworks, AI-native browsers, MCP servers, extensions, and commercial products |
-| [Awesome-AI-Coding-Tools](https://github.com/danielrosehill/Awesome-AI-Coding-Tools) | Snapshot of AI-powered coding tools and assistants |
-| [Awesome-Obsidian-AI-Tools](https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools) | Obsidian plugins focused on leveraging AI and LLMs inside of (and beyond) vaults |
+## Israel, Hebrew & Jewish Tech
 
-## Israel & Jewish Tech
-
-![Repos](https://img.shields.io/badge/repos-3-blue?style=flat-square)
-
-| Repository | Description |
-|---|---|
-| [Hebrew-Calendar-Resources](https://github.com/danielrosehill/Hebrew-Calendar-Resources) | Open-source tools, libraries, APIs, and integrations for working with the Hebrew calendar |
-| [Israeli-AI-Agents-And-MCPs](https://github.com/danielrosehill/Israeli-AI-Agents-And-MCPs) | MCP projects related to Israel |
-| [Jewish-AI-Projects](https://github.com/danielrosehill/Jewish-AI-Projects) | Technological projects for Jewish religious life — AI tools, Hebrew calendar, text study, MCP servers, home automation, and more |
+| Repository | Description | Updated |
+|---|---|---|
+| [Hebrew AI Models](https://github.com/danielrosehill/Hebrew-AI-Models) | A catalog of AI models for the Hebrew language — LLMs, STT, TTS, NLP, embeddings, translation, and more | ![](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-AI-Models?style=flat-square&label=) |
+| [Hebrew Calendar Resources](https://github.com/danielrosehill/Hebrew-Calendar-Resources) | Open-source tools, libraries, APIs, and integrations for working with the Hebrew calendar | ![](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-Calendar-Resources?style=flat-square&label=) |
+| [Hebrew LLMs](https://github.com/danielrosehill/Hebrew-LLMs) | A pathfinder repo (index) to some Hebrew language LLMs on Hugging Face | ![](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-LLMs?style=flat-square&label=) |
+| [Hebrew TTS Providers](https://github.com/danielrosehill/Hebrew-TTS-Providers) | Point in time snapshot of TTS providers with Modern Hebrew support | ![](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-TTS-Providers?style=flat-square&label=) |
+| [Israeli AI Agents And MCPs](https://github.com/danielrosehill/Israeli-AI-Agents-And-MCPs) | MCP projects related to Israel | ![](https://img.shields.io/github/last-commit/danielrosehill/Israeli-AI-Agents-And-MCPs?style=flat-square&label=) |
+| [Jewish AI Projects](https://github.com/danielrosehill/Jewish-AI-Projects) | Technological projects for Jewish religious life — AI tools, Hebrew calendar, text study, MCP servers, home automation, and more | ![](https://img.shields.io/github/last-commit/danielrosehill/Jewish-AI-Projects?style=flat-square&label=) |
 
 ## Meta / Tooling
 
-![Repos](https://img.shields.io/badge/repos-2-blue?style=flat-square)
-
-| Repository | Description |
-|---|---|
-| [Ecosystem-Mapper](https://github.com/danielrosehill/Ecosystem-Mapper) | Claude research utility to delineate an emerging tech ecosystem |
-| [Non-Code-Claude-Code](https://github.com/danielrosehill/Non-Code-Claude-Code) | Collection of non-development related uses for Claude Code |
+| Repository | Description | Updated |
+|---|---|---|
+| [Ecosystem Mapper](https://github.com/danielrosehill/Ecosystem-Mapper) | Claude research utility to delineate an emerging tech ecosystem | ![](https://img.shields.io/github/last-commit/danielrosehill/Ecosystem-Mapper?style=flat-square&label=) |
+| [Non Code Claude Code](https://github.com/danielrosehill/Non-Code-Claude-Code) | Collection of non-development related uses for Claude Code | ![](https://img.shields.io/github/last-commit/danielrosehill/Non-Code-Claude-Code?style=flat-square&label=) |
 
 ---
 
