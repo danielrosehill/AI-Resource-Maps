@@ -49,6 +49,7 @@
 | Repository | Description | Updated |
 |---|---|---|
 | [AI Browser Tools](https://github.com/danielrosehill/AI-Browser-Tools) | Index of AI browser tools — automation frameworks, AI-native browsers, MCP servers, extensions, and commercial products | ![](https://img.shields.io/github/last-commit/danielrosehill/AI-Browser-Tools?style=flat-square&label=) |
+| [AI Presentation Builders](https://github.com/danielrosehill/AI-Presentation-Builders-Index) | Tools, agents, and assistants for generating presentations and decks with AI — frameworks, agent skills, MCP servers, Typst tooling | ![](https://img.shields.io/github/last-commit/danielrosehill/AI-Presentation-Builders-Index?style=flat-square&label=) |
 | [Awesome AI Coding Tools](https://github.com/danielrosehill/Awesome-AI-Coding-Tools) | Snapshot of AI-powered coding tools and assistants | ![](https://img.shields.io/github/last-commit/danielrosehill/Awesome-AI-Coding-Tools?style=flat-square&label=) |
 | [Awesome Obsidian AI Tools](https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools) | Obsidian plugins focused on leveraging AI and LLMs inside of (and beyond) vaults | ![](https://img.shields.io/github/last-commit/danielrosehill/Awesome-Obsidian-AI-Tools?style=flat-square&label=) |
 | [Local AI Agent Resources](https://github.com/danielrosehill/Local-AI-Agent-Resources) | Resources for building and running local AI agents | ![](https://img.shields.io/github/last-commit/danielrosehill/Local-AI-Agent-Resources?style=flat-square&label=) |

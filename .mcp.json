@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "nano-tech-diagrams": {
+      "command": "nano-tech-diagrams-mcp",
+      "env": {
+        "FAL_KEY": "${FAL_KEY}"
+      }
+    }
+  }
+}
