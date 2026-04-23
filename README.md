@@ -18,6 +18,7 @@
 | Repository | Description | Updated |
 |---|---|---|
 | [AI Geopol Projects](https://github.com/danielrosehill/AI-Geopol-Projects) | AI projects exploring the ability of AI agents to act as proxies for real-world geopolitical actors, including simulated policy fora | ![](https://img.shields.io/github/last-commit/danielrosehill/AI-Geopol-Projects?style=flat-square&label=) |
+| [Geopol Forecasts Index](https://github.com/danielrosehill/Geopol-Forecasts-Index) | Index of prediction runs from Geopol Forecaster with accuracy tracking — Snowglobe + LLM Council pipeline | ![](https://img.shields.io/github/last-commit/danielrosehill/Geopol-Forecasts-Index?style=flat-square&label=) |
 | [AI Synthesised Perspectives](https://github.com/danielrosehill/AI-Synthesised-Perspectives) | AI projects focused on synthesising perspectives for multi-perspective exploration | ![](https://img.shields.io/github/last-commit/danielrosehill/AI-Synthesised-Perspectives?style=flat-square&label=) |
 | [AI Synthetic Society Experiments](https://github.com/danielrosehill/AI-Synthetic-Society-Experiments) | AI projects exploring synthetic AI societies, multi-agent socialisation, and using these experiments as proxies for understanding real-world behavior | ![](https://img.shields.io/github/last-commit/danielrosehill/AI-Synthetic-Society-Experiments?style=flat-square&label=) |
 
@@ -48,11 +49,13 @@
 
 | Repository | Description | Updated |
 |---|---|---|
+| [Agent Assisted Purchase Research](https://github.com/danielrosehill/Agent-Assisted-Purchase-Research-Index) | Templates, agent skills, and demos for using AI agents to drive consumer purchase research — spec-first, product matching, then availability checks | ![](https://img.shields.io/github/last-commit/danielrosehill/Agent-Assisted-Purchase-Research-Index?style=flat-square&label=) |
 | [AI Browser Tools](https://github.com/danielrosehill/AI-Browser-Tools) | Index of AI browser tools — automation frameworks, AI-native browsers, MCP servers, extensions, and commercial products | ![](https://img.shields.io/github/last-commit/danielrosehill/AI-Browser-Tools?style=flat-square&label=) |
 | [AI Presentation Builders](https://github.com/danielrosehill/AI-Presentation-Builders-Index) | Tools, agents, and assistants for generating presentations and decks with AI — frameworks, agent skills, MCP servers, Typst tooling | ![](https://img.shields.io/github/last-commit/danielrosehill/AI-Presentation-Builders-Index?style=flat-square&label=) |
 | [Awesome AI Coding Tools](https://github.com/danielrosehill/Awesome-AI-Coding-Tools) | Snapshot of AI-powered coding tools and assistants | ![](https://img.shields.io/github/last-commit/danielrosehill/Awesome-AI-Coding-Tools?style=flat-square&label=) |
 | [Awesome Obsidian AI Tools](https://github.com/danielrosehill/Awesome-Obsidian-AI-Tools) | Obsidian plugins focused on leveraging AI and LLMs inside of (and beyond) vaults | ![](https://img.shields.io/github/last-commit/danielrosehill/Awesome-Obsidian-AI-Tools?style=flat-square&label=) |
 | [Local AI Agent Resources](https://github.com/danielrosehill/Local-AI-Agent-Resources) | Resources for building and running local AI agents | ![](https://img.shields.io/github/last-commit/danielrosehill/Local-AI-Agent-Resources?style=flat-square&label=) |
+| [Useful AI Agent Skills](https://github.com/danielrosehill/Useful-AI-Agent-Skills) | Personal collection of AI agent skills and skill collections worth exploring | ![](https://img.shields.io/github/last-commit/danielrosehill/Useful-AI-Agent-Skills?style=flat-square&label=) |
 
 ## Israel, Hebrew & Jewish Tech
 
@@ -60,6 +63,7 @@
 |---|---|---|
 | [Hebrew AI Models](https://github.com/danielrosehill/Hebrew-AI-Models) | A catalog of AI models for the Hebrew language — LLMs, STT, TTS, NLP, embeddings, translation, and more | ![](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-AI-Models?style=flat-square&label=) |
 | [Hebrew Calendar Resources](https://github.com/danielrosehill/Hebrew-Calendar-Resources) | Open-source tools, libraries, APIs, and integrations for working with the Hebrew calendar | ![](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-Calendar-Resources?style=flat-square&label=) |
+| [Hebrew Language Projects Index](https://github.com/danielrosehill/Hebrew-Language-Projects-Index) | Index of projects for working with Hebrew: translation, TTS, LLMs, fonts, calendar, and more | ![](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-Language-Projects-Index?style=flat-square&label=) |
 | [Hebrew LLMs](https://github.com/danielrosehill/Hebrew-LLMs) | A pathfinder repo (index) to some Hebrew language LLMs on Hugging Face | ![](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-LLMs?style=flat-square&label=) |
 | [Hebrew TTS Providers](https://github.com/danielrosehill/Hebrew-TTS-Providers) | Point in time snapshot of TTS providers with Modern Hebrew support | ![](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-TTS-Providers?style=flat-square&label=) |
 | [Israeli AI Agents And MCPs](https://github.com/danielrosehill/Israeli-AI-Agents-And-MCPs) | MCP projects related to Israel | ![](https://img.shields.io/github/last-commit/danielrosehill/Israeli-AI-Agents-And-MCPs?style=flat-square&label=) |
