@@ -5,7 +5,7 @@
     Curated resource lists, project collections, and landscape overviews
   </p>
   <p align="center">
-    <img src="https://img.shields.io/badge/repos-23-blue?style=for-the-badge" alt="Total repos"/>
+    <img src="https://img.shields.io/badge/repos-26-blue?style=for-the-badge" alt="Total repos"/>
     <img src="https://img.shields.io/badge/categories-7-purple?style=for-the-badge" alt="Categories"/>
     <img src="https://img.shields.io/github/last-commit/danielrosehill/AI-Resource-Maps?style=for-the-badge&color=green" alt="Last updated"/>
   </p>
@@ -28,12 +28,15 @@
 |---|---|---|
 | [AI Decision Eval Projects](https://github.com/danielrosehill/AI-Decision-Eval-Projects) | AI projects focused on exploring AI as a tool for enhanced decision-making in personal and business contexts | ![](https://img.shields.io/github/last-commit/danielrosehill/AI-Decision-Eval-Projects?style=flat-square&label=) |
 | [Deep Research Projects 0425](https://github.com/danielrosehill/Deep-Research-Projects-0425) | Collection of links to AI "deep research" projects and agents | ![](https://img.shields.io/github/last-commit/danielrosehill/Deep-Research-Projects-0425?style=flat-square&label=) |
+| [Awesome AI Evaluations Tools](https://github.com/danielrosehill/Awesome-AI-Evaluations-Tools) | Curated list of open-source tools, frameworks, and benchmarks for evaluating AI systems — LLMs, RAG, agents, multimodal, safety, bias | ![](https://img.shields.io/github/last-commit/danielrosehill/Awesome-AI-Evaluations-Tools?style=flat-square&label=) |
 | [Eval Resources](https://github.com/danielrosehill/Eval-Resources) | Curated list of LLM evaluation frameworks, benchmarks, and tools | ![](https://img.shields.io/github/last-commit/danielrosehill/Eval-Resources?style=flat-square&label=) |
 
 ## Personal AI & Context Engineering
 
 | Repository | Description | Updated |
 |---|---|---|
+| [AI Memory Layers](https://github.com/danielrosehill/AI-Memory-Layers) | Curated collection of AI memory layer projects — persistent, contextual, and structured memory for AI agents and LLMs | ![](https://img.shields.io/github/last-commit/danielrosehill/AI-Memory-Layers?style=flat-square&label=) |
+| [Context Engineering Resources](https://github.com/danielrosehill/Context-Engineering-Resources) | Tooling, agent skills, education, and awesome lists for designing and managing LLM context | ![](https://img.shields.io/github/last-commit/danielrosehill/Context-Engineering-Resources?style=flat-square&label=) |
 | [Personal AI Resources](https://github.com/danielrosehill/Personal-AI-Resources) | Projects advancing personalised AI — memory, context engineering, personal assistants, second brain tools, and more | ![](https://img.shields.io/github/last-commit/danielrosehill/Personal-AI-Resources?style=flat-square&label=) |
 
 ## Voice & Speech Technology
