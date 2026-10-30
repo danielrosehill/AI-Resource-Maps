@@ -1,3 +1,5 @@
+
+[![Master Index](https://img.shields.io/badge/Master%20Index-All%20Repositories-purple?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Start-Here)
 <p align="center">
   <h1 align="center">AI Resource Maps</h1>
   <p align="center">
@@ -10,6 +12,8 @@
     <img src="https://img.shields.io/github/last-commit/danielrosehill/AI-Resource-Maps?style=for-the-badge&color=green" alt="Last updated"/>
   </p>
 </p>
+
+**Last Updated:** October 2026
 
 ---
 
@@ -29,7 +33,6 @@
 | [AI Decision Eval Projects](https://github.com/danielrosehill/AI-Decision-Eval-Projects) | AI projects focused on exploring AI as a tool for enhanced decision-making in personal and business contexts | ![](https://img.shields.io/github/last-commit/danielrosehill/AI-Decision-Eval-Projects?style=flat-square&label=) |
 | [Deep Research Projects 0425](https://github.com/danielrosehill/Deep-Research-Projects-0425) | Collection of links to AI "deep research" projects and agents | ![](https://img.shields.io/github/last-commit/danielrosehill/Deep-Research-Projects-0425?style=flat-square&label=) |
 | [Awesome AI Evaluations Tools](https://github.com/danielrosehill/Awesome-AI-Evaluations-Tools) | Curated list of open-source tools, frameworks, and benchmarks for evaluating AI systems — LLMs, RAG, agents, multimodal, safety, bias | ![](https://img.shields.io/github/last-commit/danielrosehill/Awesome-AI-Evaluations-Tools?style=flat-square&label=) |
-| [Eval Resources](https://github.com/danielrosehill/Eval-Resources) | Curated list of LLM evaluation frameworks, benchmarks, and tools | ![](https://img.shields.io/github/last-commit/danielrosehill/Eval-Resources?style=flat-square&label=) |
 
 ## Personal AI & Context Engineering
 
@@ -69,14 +72,13 @@
 | [Hebrew Language Projects Index](https://github.com/danielrosehill/Hebrew-Language-Projects-Index) | Index of projects for working with Hebrew: translation, TTS, LLMs, fonts, calendar, and more | ![](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-Language-Projects-Index?style=flat-square&label=) |
 | [Hebrew LLMs](https://github.com/danielrosehill/Hebrew-LLMs) | A pathfinder repo (index) to some Hebrew language LLMs on Hugging Face | ![](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-LLMs?style=flat-square&label=) |
 | [Hebrew TTS Providers](https://github.com/danielrosehill/Hebrew-TTS-Providers) | Point in time snapshot of TTS providers with Modern Hebrew support | ![](https://img.shields.io/github/last-commit/danielrosehill/Hebrew-TTS-Providers?style=flat-square&label=) |
-| [Israeli AI Agents And MCPs](https://github.com/danielrosehill/Israeli-AI-Agents-And-MCPs) | MCP projects related to Israel | ![](https://img.shields.io/github/last-commit/danielrosehill/Israeli-AI-Agents-And-MCPs?style=flat-square&label=) |
+| [Israeli AI](https://github.com/danielrosehill/Israeli-AI) | MCP projects related to Israel | ![](https://img.shields.io/github/last-commit/danielrosehill/Israeli-AI-Agents-And-MCPs?style=flat-square&label=) |
 | [Jewish AI Projects](https://github.com/danielrosehill/Jewish-AI-Projects) | Technological projects for Jewish religious life — AI tools, Hebrew calendar, text study, MCP servers, home automation, and more | ![](https://img.shields.io/github/last-commit/danielrosehill/Jewish-AI-Projects?style=flat-square&label=) |
 
 ## Meta / Tooling
 
 | Repository | Description | Updated |
 |---|---|---|
-| [Ecosystem Mapper](https://github.com/danielrosehill/Ecosystem-Mapper) | Claude research utility to delineate an emerging tech ecosystem | ![](https://img.shields.io/github/last-commit/danielrosehill/Ecosystem-Mapper?style=flat-square&label=) |
 | [Non Code Claude Code](https://github.com/danielrosehill/Non-Code-Claude-Code) | Collection of non-development related uses for Claude Code | ![](https://img.shields.io/github/last-commit/danielrosehill/Non-Code-Claude-Code?style=flat-square&label=) |
 
 ---
